@@ -1,0 +1,6 @@
+name: PlayerNotifications
+version: '1.0.0'
+main: me.honeyberries.playerNotifications.PlayerNotifications
+api-version: '1.19'
+authors: [ HoneyBerries ]
+description: A plugin that plays a sound on the server computer when a player joins or leaves the server.
